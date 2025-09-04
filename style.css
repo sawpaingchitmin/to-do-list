@@ -8,6 +8,10 @@
     width: 100%;
     min-height: 100vh;
     background-image: url(images/background.avif);
+    background-size: cover;
+    background-position: center; /* keep it centered */
+    background-repeat: no-repeat;/* prevent tiling */
+    background-attachment: fixed;/* optional: keep background fixed on scroll */
     padding: 1.5rem;
 
 }
