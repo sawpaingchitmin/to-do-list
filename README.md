@@ -14,7 +14,7 @@ This app allows you to **add, check off, and delete tasks**, with data saved in 
 
 ---
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - HTML5
 - CSS3 (responsive design, custom styles)
 - JavaScript (DOM manipulation, localStorage)
@@ -25,7 +25,7 @@ This app allows you to **add, check off, and delete tasks**, with data saved in 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sawpaingchitmin/to-do-list
+git clone https://github.com/sawpaingchitmin/to-do-list.git
 ```
 
 ### 2. Navigate into the project folder
